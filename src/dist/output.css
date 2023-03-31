@@ -549,6 +549,14 @@ video {
   height: 33px;
 }
 
+.h-\[2\.0625rem\] {
+  height: 2.0625rem;
+}
+
+.h-\[6\.25rem\] {
+  height: 6.25rem;
+}
+
 .min-w-\[260px\] {
   min-width: 260px;
 }
@@ -557,8 +565,20 @@ video {
   min-width: 7.5rem;
 }
 
+.min-w-\[120px\] {
+  min-width: 120px;
+}
+
+.min-w-\[16\.25rem\] {
+  min-width: 16.25rem;
+}
+
 .max-w-\[234px\] {
   max-width: 234px;
+}
+
+.max-w-\[14\.625rem\] {
+  max-width: 14.625rem;
 }
 
 .cursor-pointer {
@@ -729,6 +749,10 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-\[1\.25rem\] {
+  font-size: 1.25rem;
 }
 
 .font-bold {
